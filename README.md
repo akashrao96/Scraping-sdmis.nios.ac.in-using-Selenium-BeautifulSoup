@@ -8,4 +8,4 @@ women, rural youth, working men and women, SCs and STs, differently abled person
 disadvantaged persons who because of one or other reason could not continue their education in the
 formal system of education. The aim of NIOS is to reach the unreached. 
 
-The url is https://sdmis.nios.ac.in/registration/locate-study-center . You have to install some open-source external libraries like BeautifulSoup,selenium,requests,csv etc.I need to extract data like Name,Mobile,Email etc which is given in the repository
+The url is https://sdmis.nios.ac.in/registration/locate-study-center . You have to install some open-source external libraries like BeautifulSoup,selenium,re etc.I need to extract data like Name,Mobile,Email etc which is given in the repository
